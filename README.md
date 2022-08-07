@@ -1,16 +1,26 @@
 ### Hola, mi nombre es Carlos Leonel Ramírez 👋
 
+Algunos datos sobre mi:
+
+- 🔭 Soy Ingeniero en Electronica y vivo en Guatemala
+- :man_technologist: Tengo experiencia diseñando, implementando, administrando y asegurando redes e infraestructura TI.
+- 🌱 En constante aprendizaje, interesado en temas como: Cloud, IaC, DevOps, DevSecOps, Network Automation, y todo lo que se relacióne con ello.
+- 🤔 No soy "developer", pero me gusta programar y me interesa todo relacionado a IoT y Automatización (Industrial). (si.. es diferente).
+- 💬 Tengo una comunidad en [Discord](https://discord.gg/RttaMbYBhN) para hablar de estos temas. 
+- :tv: De vez en cuando subo un video a [youtube](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ)
+- 📫 Me puedes contactar a: carloslrm@gmail.com
+
+<div align="left">
+  
+[![Website](https://img.shields.io/badge/-carloslrm-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://carlos.syprotec.com.gt)](https://carlos.syprotec.com.gt)
+[![Linkedin](https://img.shields.io/badge/-carloslrm-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloslrm/)](https://www.linkedin.com/in/carloslrm/)
+[![Discord](https://img.shields.io/discord/916007169319653467?label=discord&logo=discord)](https://discord.gg/RttaMbYBhN) 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UChtPrAWh26XlxuKT0GOojRQ?style=social)](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ) 
+
+</div>
+
+
+
 <!--
 **CarlosLRamirez/CarlosLRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
