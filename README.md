@@ -7,7 +7,7 @@ Algunos datos sobre mi:
 - 🌱 En constante aprendizaje, interesado en temas como: Cloud, IaC, DevOps, DevSecOps, Network Automation, y todo lo que se relacióne con ello.
 - 🤔 No soy "developer", pero me gusta programar y también me interesa todo relacionado a IoT,IIoT, Automatización Industrial, Domótica, etc...
 - 💬 Tengo una comunidad en [Discord](https://discord.gg/RttaMbYBhN) para hablar de estos temas. 
-- :tv: De vez en cuando subo un video a [youtube](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ)
+- :tv: De vez en cuando subo un video a [YouTube](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ)
 - 📫 Me puedes contactar por [Telegram](https://t.me/CarlosLRamirez)
 
 <div align="left">
