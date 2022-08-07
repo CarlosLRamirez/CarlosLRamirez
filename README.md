@@ -3,7 +3,7 @@
 Algunos datos sobre mi:
 
 - 🔭 Soy Ingeniero en Electronica y vivo en Guatemala
-- :man_technologist: Puedo diseñar, implementar, administrar y asegurar redes e infraestructura TI a nivel empresarial.
+- :man_technologist: Puedo diseñar, implementar, administrar y asegurar redes e infraestructura TI a nivel empresarial, así como liderar la implementación de proyectos de tecnología.
 - 🌱 En constante aprendizaje, interesado en temas como: Cloud, IaC, DevOps, DevSecOps, Network Automation, y todo lo que se relacióne con ello.
 - 🤔 No soy "developer", pero me gusta programar y también me interesa todo relacionado a IoT,IIoT, Automatización Industrial, Domótica, etc...
 - 💬 Tengo una comunidad en [Discord](https://discord.gg/RttaMbYBhN) para hablar de estos temas. 
