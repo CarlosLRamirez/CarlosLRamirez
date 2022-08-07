@@ -5,10 +5,10 @@ Algunos datos sobre mi:
 - 🔭 Soy Ingeniero en Electronica y vivo en Guatemala
 - :man_technologist: Tengo experiencia diseñando, implementando, administrando y asegurando redes e infraestructura TI.
 - 🌱 En constante aprendizaje, interesado en temas como: Cloud, IaC, DevOps, DevSecOps, Network Automation, y todo lo que se relacióne con ello.
-- 🤔 No soy "developer", pero me gusta programar y me interesa todo relacionado a IoT y Automatización (Industrial). (si.. es diferente).
+- 🤔 No soy "developer", pero me gusta programar y también me interesa todo relacionado a IoT,IIoT, Automatización Industrial, Domótica, etc...
 - 💬 Tengo una comunidad en [Discord](https://discord.gg/RttaMbYBhN) para hablar de estos temas. 
 - :tv: De vez en cuando subo un video a [youtube](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ)
-- 📫 Me puedes contactar a: carloslrm@gmail.com
+- 📫 Me puedes contactar por [Telegram](https://t.me/CarlosLRamirez)
 
 <div align="left">
   
