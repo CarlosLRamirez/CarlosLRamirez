@@ -12,7 +12,7 @@ Algunos datos sobre mi:
 
 <div align="left">
   
-[![Website](https://img.shields.io/badge/-MyBlog-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://carloslramirez.syprotec.com.gt)](https://carloslramirez.syprotec.com.gt)
+[![Website](https://img.shields.io/badge/-MyBlog-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://carloslramirez.com)](https://carloslramirez.syprotec.com.gt)
 [![Linkedin](https://img.shields.io/badge/-carloslrm-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloslrm/)](https://www.linkedin.com/in/carloslrm/)
 [![Discord](https://img.shields.io/discord/916007169319653467?label=discord&logo=discord)](https://discord.gg/RttaMbYBhN) 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UChtPrAWh26XlxuKT0GOojRQ?style=social)](https://www.youtube.com/channel/UChtPrAWh26XlxuKT0GOojRQ) 
